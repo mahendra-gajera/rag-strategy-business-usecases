@@ -5,6 +5,17 @@
 ---
 
 ## 📚 All Use Cases
+| # | RAG Strategy | Use Case | Industry | Key Benefit | Complexity |
+|---|-------------|----------|----------|-------------|------------|
+| 1 | **Naive RAG** | [Simple FAQ Chatbot](./02-simple-faq-chatbot.md) | Retail, SMB | Fast implementation, low cost | Low |
+| 2 | **Advanced RAG** | [Developer Copilot](./03-developer-copilot.md) | Software Engineering | 50% faster coding, 15x ROI | Medium |
+| 3 | **Hybrid RAG** | [Customer Support Copilot](./01-customer-support-copilot.md) | SaaS, Technology | 95% accuracy, 70% cost reduction | Medium |
+| 4 | **Graph RAG** | [Legal Document Analysis](./04-legal-document-analysis.md) | Law Firms, Compliance | 85% accuracy, 75% faster research | High |
+| 5 | **Agentic RAG** | [Healthcare Clinical Assistant](./05-healthcare-clinical-assistant.md) | Healthcare | 99% accuracy, 90% risk reduction | High |
+| 6 | **Multi-hop RAG** | [Financial Risk Analysis](./06-financial-risk-analysis.md) | Banking, Finance | 80% better risk detection | High |
+| 7 | **Hierarchical RAG** | [Insurance Claims Processing](./07-insurance-claims-processing.md) | Insurance | 60% faster processing | Medium |
+| 8 | **Cached RAG** | [Sales Enablement Assistant](./08-sales-enablement-assistant.md) | B2B SaaS | <500ms responses, 3x faster deals | Low |
+| 9 | **Streaming RAG** | [Real-time Content Moderation](./09-content-moderation.md) | Social Media | <100ms decisions at scale | Medium |
 
 ## 🎯 Quick Selection Guide
 
