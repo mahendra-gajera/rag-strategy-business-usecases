@@ -7,7 +7,7 @@
 | **Use Case** | Simple FAQ Chatbot |
 | **Industry** | Retail, Hospitality, Small Business |
 | **Recommended Strategy** | **Naive RAG** |
-| **Key Benefit** | Quick implementation (2-3 weeks), low cost, 85% accuracy |
+| **Key Benefit** | Quick implementation , low cost, 85% accuracy |
 
 ---
 
