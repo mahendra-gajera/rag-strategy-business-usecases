@@ -90,20 +90,6 @@ All documents are **under 100 lines** for quick review.
 ---
 
 
-## 🔗 References & Proof Links
-
-| # | Use Case | Real-World Evidence | Status |
-|---|----------|-------------------|--------|
-| 1 | **Naive RAG - FAQ Bot** | [LangChain RAG Tutorial](https://python.langchain.com/docs/tutorials/rag/), [OpenAI Embeddings Guide](https://platform.openai.com/docs/guides/embeddings) | ✅ Proven |
-| 2 | **Advanced RAG - Developer Copilot** | [GitHub Copilot](https://github.com/features/copilot), [Cursor AI](https://cursor.sh/), [Tabnine Blog](https://www.tabnine.com/blog/how-tabnine-works/) | ✅ Production |
-| 3 | **Hybrid RAG - Customer Support** | [Intercom RAG System](https://www.intercom.com/blog/how-we-built-fin/), [Stripe Support AI](https://stripe.com/blog/stripe-ai), [LangChain Hybrid Search](https://python.langchain.com/docs/how_to/hybrid/) | ✅ Production |
-| 4 | **Graph RAG - Legal** | [Microsoft GraphRAG Paper](https://arxiv.org/abs/2404.16130), [Casetext CoCounsel](https://casetext.com/cocounsel), [LexisNexis AI](https://www.lexisnexis.com/en-us/products/lexis-plus-ai.page) | ✅ Production |
-| 5 | **Agentic RAG - Healthcare** | [Google Med-PaLM 2](https://cloud.google.com/blog/topics/healthcare-life-sciences/sharing-google-med-palm-2-medical-large-language-model), [Epic Systems AI](https://www.epic.com/epic/post/epic-microsoft-generative-ai), [LangChain Agents](https://python.langchain.com/docs/tutorials/agents/) | ⚠️ Emerging |
-| 6 | **Multi-hop RAG - Finance** | [Bloomberg GPT](https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/), [Self-Ask Prompting (arxiv)](https://arxiv.org/abs/2210.03350), [IRCoT Paper](https://arxiv.org/abs/2212.10509) | ✅ Research+Prod |
-| 7 | **Hierarchical RAG - Insurance** | [LlamaIndex RecursiveRetriever](https://docs.llamaindex.ai/en/stable/examples/retrievers/recursive_retriever_nodes/), [Lemonade AI Claims](https://www.lemonade.com/blog/lemonade-ai-jim/) | ✅ Production |
-| 8 | **Cached RAG - Sales** | [Gong Revenue AI](https://www.gong.io/revenue-ai/), [Salesforce Einstein](https://www.salesforce.com/einstein/), [Redis AI Cache](https://redis.io/blog/generative-ai-caching-patterns/) | ✅ Production |
-| 9 | **Streaming RAG - Moderation** | [OpenAI Moderation API](https://platform.openai.com/docs/guides/moderation), [Meta Content Moderation](https://ai.meta.com/blog/harmful-content-can-evolve-quickly-our-new-ai-system-adapts-to-tackle-it/), [LangChain Streaming](https://python.langchain.com/docs/how_to/streaming/) | ✅ Production |
-
 ### Academic Papers & Research
 
 **Foundational RAG Papers:**
