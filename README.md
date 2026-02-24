@@ -108,8 +108,6 @@ All documents are **under 100 lines** for quick review.
 ### Industry Case Studies
 
 **Customer Support:**
-- [How Intercom Built Fin (Hybrid RAG)](https://www.intercom.com/blog/how-we-built-fin/)
-- [Zendesk AI Agent](https://www.zendesk.com/service/ai/)
 - [Klarna's AI Assistant Result](https://www.klarna.com/international/press/klarna-ai-assistant-handles-two-thirds-of-customer-service-chats-in-its-first-month/)
 
 **Developer Tools:**
@@ -208,16 +206,7 @@ This work is provided for educational and planning purposes. When using:
 - ✅ Reference freely for internal planning and proposals
 - ✅ Adapt architectures to your specific needs
 - ✅ Share with attribution
-- ❌ Do not claim as proprietary research
-- ❌ Verify claims independently before external presentations
 
-**Suggested Citation:**
-```
-RAG Strategy to Business Use Case Mapping (2026)
-https://github.com/yourusername/rag-strategy-business-usecases
-```
-
----
 
 **Version**: 1.0
 **Last Updated**: February 2026
