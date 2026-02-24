@@ -92,21 +92,6 @@ All documents are **under 100 lines** for quick review.
 
 ---
 
-## 📊 ROI Summary
-
-| Use Case | Implementation Cost | Annual Savings | ROI |
-|----------|-------------------|----------------|-----|
-| FAQ Chatbot | $50K | $360K | 7.2x |
-| Developer Copilot | $280K | $4.2M | 15.0x |
-| Customer Support | $260K | $3.6M | 11.2x |
-| Legal Analysis | $450K | $4.5M | 8.5x |
-| Healthcare Clinical | $500K | $6M | 12.0x |
-| Financial Risk | $480K | $8M | 10.5x |
-| Insurance Claims | $320K | $2.5M | 9.8x |
-| Sales Enablement | $180K | $10M | 7.2x |
-| Content Moderation | $400K | $5M | 12.5x |
-
----
 
 ## 🔗 References & Proof Links
 
