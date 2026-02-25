@@ -22,7 +22,7 @@ Sales reps waste 3+ hours/day searching for pitch decks, case studies, pricing s
 - **Outdated content**: Reps use old pricing or feature info, losing deals
 - **Deal velocity**: Slow responses extend sales cycles from 60 to 90+ days
 
-**Business Impact:** $10M+ lost revenue from extended sales cycles, lost deals due to slow responses, competitive losses.
+**Business Impact:**  lost revenue from extended sales cycles, lost deals due to slow responses, competitive losses.
 
 ---
 
