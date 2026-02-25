@@ -7,7 +7,7 @@
 | **Use Case** | Sales Enablement Assistant |
 | **Industry** | B2B SaaS, Enterprise Sales |
 | **Recommended Strategy** | **Cached RAG** |
-| **Key Benefit** | <500ms responses, 3x faster deal cycles, $10M revenue impact |
+| **Key Benefit** | Fast responses, faster deal cycles |
 
 ---
 
