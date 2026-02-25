@@ -16,7 +16,6 @@
 Small to medium businesses receive 500-1000 repetitive customer questions daily about basic topics (hours, pricing, policies, shipping).
 
 **Core Problems:**
-- **Manual responses costly**: $5-10 per question × 500 questions/day = $2,500-5,000/day
 - **24/7 coverage needed**: Customers expect instant answers outside business hours
 - **Simple queries**: 80% of questions answerable from 50-100 FAQ documents
 - **High volume, low complexity**: No technical troubleshooting or multi-step reasoning needed
