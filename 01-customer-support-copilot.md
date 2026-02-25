@@ -16,12 +16,10 @@
 Support agents waste 60% of time searching fragmented documentation across multiple systems (Confluence, Zendesk, Notion, wikis, Google Drive).
 
 **Core Problems:**
-- **High costs**: $50/ticket × 10,000 tickets/month = $500K/month operational expense
 - **Inconsistent answers**: Different agents provide conflicting information for same questions
 - **Slow responses**: 24-48 hour average turnaround damages customer relationships
 - **Long onboarding**: New agents require 6 weeks training due to knowledge complexity
 - **Poor CSAT**: Customer satisfaction scores average 3.2/5
-- **Agent burnout**: 40% annual turnover rate
 
 **Business Impact:** 5-10% customer churn, missed revenue opportunities, compliance risks from incorrect guidance.
 
