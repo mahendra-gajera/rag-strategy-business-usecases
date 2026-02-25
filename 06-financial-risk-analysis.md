@@ -22,7 +22,7 @@ Financial analysts spend 70% of time aggregating data across reports, news, fili
 - **Hidden dependencies**: Supply chain risks, counterparty exposure, regulatory changes cascade
 - **Manual analysis error-prone**: Analysts miss 30-40% of relevant risk factors
 
-**Business Impact:** $8M+ annual losses from undetected risks, regulatory fines, missed hedging opportunities.
+**Business Impact:** regulatory fines, missed hedging opportunities.
 
 ---
 
