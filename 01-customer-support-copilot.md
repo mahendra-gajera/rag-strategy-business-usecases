@@ -55,8 +55,6 @@ Customer support queries have dual nature requiring both semantic understanding 
 - **Graph RAG**: Overkill; support documents are independent, no complex entity relationships
 - **Agentic RAG**: Unnecessary complexity; queries don't need multi-step reasoning or tool use
 
-**Proven Success:** Used by Stripe, Shopify, Intercom; achieves 95%+ accuracy; handles 500+ queries/second.
-
 ---
 
 ## 4. Architecture Pattern - AI Architecture Diagram
