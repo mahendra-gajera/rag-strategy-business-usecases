@@ -21,17 +21,17 @@
 
 ### By Complexity
 
-**Low Complexity (2-4 weeks)**
+**Low Complexity**
 - Naive RAG: Simple FAQ
 - Cached RAG: Sales Enablement
 
-**Medium Complexity (6-8 weeks)**
+**Medium Complexity **
 - Advanced RAG: Developer Copilot
 - Hybrid RAG: Customer Support
 - Hierarchical RAG: Insurance Claims
 - Streaming RAG: Content Moderation
 
-**High Complexity (3-4 months)**
+**High Complexity**
 - Graph RAG: Legal Analysis
 - Agentic RAG: Healthcare
 - Multi-hop RAG: Financial Risk
@@ -58,7 +58,6 @@ Each use case follows consistent format:
 2. **Recommended RAG Strategy** - Components and approach
 3. **Why This Strategy Fits** - Reasoning and alternatives comparison
 4. **Architecture Pattern** - AI architecture diagram
-
 
 ---
 
@@ -159,16 +158,9 @@ Common components across use cases:
 
 **Authenticity & Sources:**
 - All use cases are based on real-world patterns, academic research, and industry implementations
-- ROI numbers are industry estimates based on public case studies; actual results vary
 - Architecture diagrams are simplified to show RAG core; production systems have additional components
-- Company mentions are based on public information (blogs, papers, product pages)
-
-**Maturity Levels:**
-- ✅ **Production-Proven** (7/9): Naive, Advanced, Hybrid, Graph, Hierarchical, Cached, Streaming
-- ⚠️ **Emerging** (2/9): Agentic RAG, Multi-hop RAG (research active, early production adoption)
 
 **Implementation Notes:**
-- These are strategic frameworks, not copy-paste solutions
 - Validate with your specific data, requirements, and constraints
 - Proof-of-concept testing strongly recommended before production
 - Consider regulatory, privacy, and security requirements for your industry
@@ -180,18 +172,6 @@ Common components across use cases:
 
 ---
 
-## 📞 Support
-
-Each document provides:
-- Detailed problem analysis
-- Strategy justification
-- Complete architecture diagram
-- Production-ready recommendations
-
-For questions or custom analysis, refer to individual use case documents.
-
----
-
 ## 📄 License & Attribution
 
 This work is provided for educational and planning purposes. When using:
@@ -200,7 +180,6 @@ This work is provided for educational and planning purposes. When using:
 - ✅ Share with attribution
 
 
-**Version**: 1.0
+**Version**: 2.0
 **Last Updated**: February 2026
 **Total Documents**: 9 use cases + 1 README
-**Total References**: 30+ links to papers, case studies, and implementations
