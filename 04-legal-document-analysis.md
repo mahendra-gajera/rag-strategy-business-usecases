@@ -13,12 +13,11 @@
 
 ## 1. Business Use Case - Problem Statement
 
-Legal professionals spend 60% of time researching case law, statutes, precedents, and contract relationships across thousands of interconnected legal documents.
+Legal professionals spend ~60% of time researching case law, statutes, precedents, and contract relationships across thousands of interconnected legal documents.
 
 **Core Problems:**
 - **Complex relationships**: Cases cite precedents, statutes reference regulations, contracts link to amendments
 - **Research time**: Paralegals spend 40 hours/week tracing legal citations and precedents
-- **High costs**: $300-500/hour × wasted time = $6,000-20,000 per case in research costs
 - **Miss critical citations**: Overlooking key precedents can lose cases or create liability
 - **Multi-hop reasoning**: "Find cases where statute A was applied, considering precedent B"
 
