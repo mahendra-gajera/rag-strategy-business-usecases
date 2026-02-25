@@ -51,7 +51,6 @@ FAQ queries are simple, repetitive, and well-documented—ideal for basic RAG:
 **Why Naive RAG is Sufficient:**
 - **85% accuracy acceptable**: Not mission-critical; wrong answer → user tries again or contacts support
 - **Fast implementation**: 2-3 weeks vs. 2-3 months for advanced strategies
-- **Low cost**: $50-200/month infrastructure vs. $1,000+ for hybrid systems
 - **Maintainable**: Simple architecture, easy for small teams
 
 **Why NOT More Complex:**
