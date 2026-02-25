@@ -7,7 +7,7 @@
 | **Use Case** | Financial Risk Analysis |
 | **Industry** | Banking, Investment Firms, Hedge Funds |
 | **Recommended Strategy** | **Multi-hop RAG** |
-| **Key Benefit** | 80% better risk detection, $8M losses prevented |
+| **Key Benefit** | 80% better risk detection |
 
 ---
 
