@@ -13,13 +13,12 @@
 
 ## 1. Business Use Case - Problem Statement
 
-Physicians spend 6+ hours/day reviewing patient records, clinical guidelines, drug interactions, and research papers—leading to burnout and diagnostic errors.
+Physicians spend ~3 hours/day reviewing patient records, clinical guidelines, drug interactions, and research papers—leading to burnout and diagnostic errors.
 
 **Core Problems:**
 - **Information overload**: 10,000+ pages of patient history, 100+ clinical guidelines, 1M+ research papers
 - **Complex reasoning**: Diagnosis requires multi-step analysis (symptoms → labs → imaging → differential diagnosis)
 - **Tool integration needed**: Check drug databases, lab systems, imaging systems
-- **High stakes**: Diagnostic errors affect 12M Americans annually; cost $750B/year
 - **Time pressure**: 15-minute appointments insufficient for thorough analysis
 
 **Business Impact:** Medical errors, malpractice lawsuits, physician burnout, patient harm, regulatory penalties.
