@@ -19,10 +19,10 @@ Claims adjusters spend 4-6 hours per claim navigating complex policy documents w
 - **Hierarchical policies**: Master policy (100 pages) → Endorsements → Riders → Exclusions → Conditions
 - **Context loss**: Clause interpretation depends on parent sections (general exclusions vs. specific)
 - **Manual navigation**: Adjusters scroll through PDFs to understand policy structure
-- **Claim delays**: Average 14 days to process due to document complexity
+- **Claim delays**: Average ~14 days to process due to document complexity
 - **Fraud detection**: Miss fraudulent claims hidden in policy edge cases
 
-**Business Impact:** $2.5M/year in processing costs, $4M/year fraud losses, customer complaints, regulatory scrutiny.
+**Business Impact:** processing costs, fraud losses, customer complaints, regulatory scrutiny.
 
 ---
 
