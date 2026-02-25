@@ -51,7 +51,6 @@ Sales enablement requires ultra-fast responses for repetitive queries:
 
 **Why Cached RAG:**
 - **Ultra-fast**: Cache hits return in 50-100ms (10-40x faster than real-time RAG)
-- **Cost-effective**: $12K/year vs. $24K+ for real-time hybrid RAG
 - **80/20 rule**: Cache 80% of queries; only compute 20% novel queries
 - **Predictable performance**: No LLM latency variance on cached queries
 
