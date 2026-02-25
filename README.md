@@ -59,7 +59,6 @@ Each use case follows consistent format:
 3. **Why This Strategy Fits** - Reasoning and alternatives comparison
 4. **Architecture Pattern** - AI architecture diagram
 
-All documents are **under 100 lines** for quick review.
 
 ---
 
@@ -112,17 +111,10 @@ All documents are **under 100 lines** for quick review.
 
 **Developer Tools:**
 - [GitHub Copilot Technical Deep Dive](https://github.blog/2023-05-17-how-github-copilot-is-getting-better-at-understanding-your-code/)
-- [Replit Code AI](https://blog.replit.com/code-oracle)
 - [Sourcegraph Cody](https://sourcegraph.com/cody)
 
 **Legal & Compliance:**
-- [Casetext CoCounsel Launch](https://casetext.com/cocounsel)
-- [Thomson Reuters CoCounsel](https://legal.thomsonreuters.com/en/products/westlaw-precision/cocounsel)
 - [Harvey AI for Law Firms](https://www.harvey.ai/)
-
-**Healthcare:**
-- [Google Med-PaLM Achieves Expert-Level Performance](https://blog.google/technology/health/ai-llm-medlm-google-cloud-healthcare/)
-- [Epic + Microsoft Healthcare AI](https://www.epic.com/epic/post/epic-microsoft-generative-ai)
 
 **Financial Services:**
 - [Bloomberg GPT: Financial LLM](https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/)
