@@ -20,7 +20,7 @@ Social media platforms process 100,000+ user posts/second and must moderate cont
 - **Speed requirement**: Must decide <100ms to avoid blocking user experience
 - **Evolving policies**: Content policies updated daily; moderation rules change frequently
 - **Context needed**: Moderation decisions require policy reference, precedent examples, cultural context
-- **Cost**: Traditional LLM calls ($0.002/call) × 100K/sec = $200/sec = $17M/day (unsustainable)
+
 
 **Business Impact:** Regulatory fines ($5M-50M), brand damage from harmful content, user churn from over-moderation.
 
