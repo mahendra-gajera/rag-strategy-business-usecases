@@ -22,7 +22,7 @@ Social media platforms process 100,000+ user posts/second and must moderate cont
 - **Context needed**: Moderation decisions require policy reference, precedent examples, cultural context
 
 
-**Business Impact:** Regulatory fines ($5M-50M), brand damage from harmful content, user churn from over-moderation.
+**Business Impact:** Regulatory fines, brand damage from harmful content, user churn from over-moderation.
 
 ---
 
