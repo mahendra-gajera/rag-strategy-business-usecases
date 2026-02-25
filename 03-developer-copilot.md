@@ -7,7 +7,7 @@
 | **Use Case** | Developer Copilot |
 | **Industry** | Software Engineering, Technology |
 | **Recommended Strategy** | **Advanced RAG (Enhanced Chunking + Metadata)** |
-| **Key Benefit** | 50% faster coding, 15x ROI, 40% fewer bugs |
+| **Key Benefit** | 50% faster coding, 40% fewer bugs |
 
 ---
 
